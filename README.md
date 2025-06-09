@@ -8,7 +8,7 @@ TP Integrador- Programación I - UTN-TU-PAD
 
 ## Materia: Programación I
 
-## Profesor: Ing. Laura Fernández
+## Profesor/a: Cinthia Rigoni
 
 ## Link a youtube:  https://www.youtube.com/watch?v=VbIT6fjGTAQ&t=8s
 
