@@ -10,4 +10,6 @@ TP Integrador- Programación I - UTN-TU-PAD
 
 ## Profesor: Ing. Laura Fernández
 
+## Link a youtube:  https://www.youtube.com/watch?v=VbIT6fjGTAQ&t=8s
+
 ## Fecha de Entrega:  9 de junio de 2025
